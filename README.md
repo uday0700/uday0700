@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in b
 - **Frontend:** Angular, React, Next.js
 - **Backend:** Node.js, Express
 - **Database:** Firebase, MongoDB
-- **Other Tools:** Git, npm, VS Code
+- **Other Tools:** Git, npm, VS Code, Aws
 
 ## 🌱 What I’m Learning
 
