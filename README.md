@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Uday
 
-<!--
-**uday0700/uday0700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer with expertise in building scalable and efficient web applications. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Angular & Firebase:** Building dynamic, real-time applications.
+- **React & Next.js:** Developing modern, server-rendered, and client-side applications.
+- **Node.js:** Crafting robust backend systems and RESTful APIs.
+- **MERN Stack:** Creating full-stack web applications using MongoDB, Express, React, and Node.js.
+
+## 🔧 Technologies & Tools
+
+- **Frontend:** Angular, React, Next.js
+- **Backend:** Node.js, Express
+- **Database:** Firebase, MongoDB
+- **Other Tools:** Git, npm, VS Code
+
+## 🌱 What I’m Learning
+
+Currently diving deeper into backend optimization, advanced React patterns, and deploying applications on cloud platforms.
